@@ -1,1 +1,0 @@
-Tipo: PontoMultiponto | Frequência: 1.0 MHz | Distância: 1.0 km | Potência TX: 1.0 dBm | Sensibilidade RX: 1.0 dBm | Disponibilidade: 99.2%
